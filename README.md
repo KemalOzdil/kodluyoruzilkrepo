@@ -11,3 +11,4 @@ Repomuzu oluşturduktan sonra;
 - Artık kodlarımızı yazıp değiştirebileceğimiz bir klonumuz oldu.
 - Ödevdeki gibi index.html dosyasını oluşturdum.
 - Kodluyoruz ekibine teşekkür ederim.
+![kodluyoruz](https://github.com/user-attachments/assets/71ac484f-f502-4d59-8eff-fed04f682e5f)
