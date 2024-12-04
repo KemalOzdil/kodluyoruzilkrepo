@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo. Nasıl oluşturuyoruz ?
 
 Repomuzu oluşturduktan sonra;
 - Repoyu açıp "Code" yazan yeşil butona tıklayın ve oradaki bağlantıyı kopyaladım.
